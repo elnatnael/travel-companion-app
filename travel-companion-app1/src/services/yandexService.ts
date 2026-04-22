@@ -1,0 +1,1 @@
+const BACKEND_URL = 'http://YOUR_COMPUTER_IP:3000';
